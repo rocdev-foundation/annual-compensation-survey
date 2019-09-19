@@ -2,7 +2,7 @@
 
 ## Results
 
-- [2019](results/2019.csv)
+- 2019 [data](results/2019.csv) and [analysis](analysis.md).
 
 ## License
 
