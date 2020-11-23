@@ -2,7 +2,8 @@
 
 ## Results
 
-- 2019 [data](results/2019.csv) and [analysis](analysis.md).
+- 2019 [data](results/2019/2019.csv) and [analysis](results/2019/analysis.ipynb).
+- 2020 [analysis](results/2020/analysis.ipynb).
 
 ## License
 
