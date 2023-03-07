@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-02-27T12:07:08.953717</dc:date>
+    <dc:date>2023-03-07T17:55:19.039643</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -381,8 +381,8 @@ z
     </g>
    </g>
    <g id="text_3">
-    <!-- Employment Engagement Type -->
-    <g style="fill: #262626" transform="translate(152.556562 35.472)scale(0.12 -0.12)">
+    <!-- Employment Engagement Type (2022) -->
+    <g style="fill: #262626" transform="translate(133.547813 35.472)scale(0.12 -0.12)">
      <defs>
       <path id="ArialMT-45" d="M 506 0 
 L 506 4581 
@@ -531,6 +531,57 @@ L 2266 0
 L 1659 0 
 z
 " transform="scale(0.015625)"/>
+      <path id="ArialMT-28" d="M 1497 -1347 
+Q 1031 -759 709 28 
+Q 388 816 388 1659 
+Q 388 2403 628 3084 
+Q 909 3875 1497 4659 
+L 1900 4659 
+Q 1522 4009 1400 3731 
+Q 1209 3300 1100 2831 
+Q 966 2247 966 1656 
+Q 966 153 1900 -1347 
+L 1497 -1347 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-30" d="M 266 2259 
+Q 266 3072 433 3567 
+Q 600 4063 929 4331 
+Q 1259 4600 1759 4600 
+Q 2128 4600 2406 4451 
+Q 2684 4303 2865 4023 
+Q 3047 3744 3150 3342 
+Q 3253 2941 3253 2259 
+Q 3253 1453 3087 958 
+Q 2922 463 2592 192 
+Q 2263 -78 1759 -78 
+Q 1097 -78 719 397 
+Q 266 969 266 2259 
+z
+M 844 2259 
+Q 844 1131 1108 757 
+Q 1372 384 1759 384 
+Q 2147 384 2411 759 
+Q 2675 1134 2675 2259 
+Q 2675 3391 2411 3762 
+Q 2147 4134 1753 4134 
+Q 1366 4134 1134 3806 
+Q 844 3388 844 2259 
+z
+" transform="scale(0.015625)"/>
+      <path id="ArialMT-29" d="M 791 -1347 
+L 388 -1347 
+Q 1322 153 1322 1656 
+Q 1322 2244 1188 2822 
+Q 1081 3291 891 3722 
+Q 769 4003 388 4659 
+L 791 4659 
+Q 1378 3875 1659 3084 
+Q 1900 2403 1900 1659 
+Q 1900 816 1576 28 
+Q 1253 -759 791 -1347 
+z
+" transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#ArialMT-45"/>
      <use xlink:href="#ArialMT-6d" x="66.699219"/>
@@ -558,6 +609,13 @@ z
      <use xlink:href="#ArialMT-79" x="1232.251953"/>
      <use xlink:href="#ArialMT-70" x="1282.251953"/>
      <use xlink:href="#ArialMT-65" x="1337.867188"/>
+     <use xlink:href="#ArialMT-20" x="1393.482422"/>
+     <use xlink:href="#ArialMT-28" x="1421.265625"/>
+     <use xlink:href="#ArialMT-32" x="1454.566406"/>
+     <use xlink:href="#ArialMT-30" x="1510.181641"/>
+     <use xlink:href="#ArialMT-32" x="1565.796875"/>
+     <use xlink:href="#ArialMT-32" x="1621.412109"/>
+     <use xlink:href="#ArialMT-29" x="1677.027344"/>
     </g>
    </g>
    <g id="legend_1">
