@@ -5,6 +5,7 @@
 - 2019 [data](results/2019/2019.csv) and [analysis](results/2019/analysis.ipynb).
 - 2020 [analysis](results/2020/analysis.ipynb).
 - 2021 [analysis](results/2021/analysis.ipynb).
+- 2022 [analysis](results/2022/analysis.ipynb).
 
 ## License
 
